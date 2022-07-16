@@ -1,12 +1,13 @@
 {
   "expo": {
-    "name": "FirstApp",
-    "slug": "FirstApp",
+    "name": "CodingMonk",
+    "slug": "coding-monk",
+    "description":"Best app for coding",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/app-store.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/app-store.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,7 +22,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/app-store.png",
         "backgroundColor": "#FFFFFF"
       }
     },
